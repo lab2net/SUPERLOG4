@@ -13,5 +13,5 @@ done
    MSG="SuperLog4 /var/log/network/ : all Cpanels logs have been cleared"
    echo -e ${MSG}|mail -s "Log Sanitazing alert from SuperLog4" ${EMAIL}
 
-
+#Monkey in closet 
 
